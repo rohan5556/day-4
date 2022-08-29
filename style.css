@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Maze&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Rubik+Maze&display=swap');
+
+
+/* h1{
+    font-size:
+    80px;
+}
+h2{
+    color: red;
+    font-size: 50px
+    ;
+}
+p{
+    background-color: darkblue;
+    color: white;
+    padding: 10px;
+    margin: 20px 50px 60px 40px
+    ;
+} */
+
+
+
+
+
+
+
+
+
+h1{
+    font-size:50px;
+    color:rgb(32, 23, 25);
+    background-color:rgb(117, 117, 117);
+    width: 20%;
+    padding: 30px;
+    margin:50px 50px 10px 50px ;
+    font-family: 'Rubik Maze', cursive;
+
+}
+p{
+    font-size: 50px;font-family: 'Oswald', sans-serif;
+    color: black;
+    background-color: beige;
+}
+
+h2{
+    font-size: 70px;
+    font-family: 'Rubik Maze', cursive;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
